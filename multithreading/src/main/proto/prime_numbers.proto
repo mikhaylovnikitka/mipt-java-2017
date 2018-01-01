@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "ru.mipt.java2017.hw2";
+option java_outer_classname = "SumPrimesProto";
+
+package ru.mipt.java2017.hw2;
+
+service Worker {
+  rpc calculateSum (SumRequest) returns (SumReply) {}
+}
+
+message SumRequest {
+  int64 start = 1;
+  int64 end = 2;
+}
+
+message SumReply {
+  int64 sum = 1;
+}
