@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 22, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.398 sec - in ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="10.398" tests="22" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="idea.version" value="2017.2.5"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib"/>
+    <property name="java.vm.version" value="25.144-b01"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/nikita/Documents/java/homework/mipt-java-2017"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/nikita/Documents/java/homework/mipt-java-2017"/>
+    <property name="java.runtime.version" value="1.8.0_144-b01"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/ll/gp23j8m53p94c4js0k_d8rk80000gn/T/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/nikita/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.13"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/nikita"/>
+    <property name="user.timezone" value="Europe/Moscow"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="nikita"/>
+    <property name="java.class.path" value="/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2017.2.5 package"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="ru"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_144"/>
+    <property name="java.ext.dirs" value="/Users/nikita/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="testBadString on testBadString(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0.004"/>
+  <testcase name="testBadSymbolAtStart on testBadSymbolAtStart(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0"/>
+  <testcase name="testPlainOrdering on testPlainOrdering(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0.003"/>
+  <testcase name="testMinus on testMinus(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0.003"/>
+  <testcase name="testNull on testNull(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0"/>
+  <testcase name="testPlusPlus on testPlusPlus(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0"/>
+  <testcase name="testDivisionAssociativity on testDivisionAssociativity(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0.001"/>
+  <testcase name="testBasicOps on testBasicOps(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0.002"/>
+  <testcase name="testTooMuchBraces on testTooMuchBraces(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0.001"/>
+  <testcase name="testTooFewBraces on testTooFewBraces(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0"/>
+  <testcase name="testBadSymbolInDigitEnd on testBadSymbolInDigitEnd(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0"/>
+  <testcase name="testBadSymbolInDigitStart on testBadSymbolInDigitStart(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0.001"/>
+  <testcase name="testAdditionalSpaceSymbols on testAdditionalSpaceSymbols(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0.001"/>
+  <testcase name="testEmptyBraces on testEmptyBraces(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0"/>
+  <testcase name="testSpacesString on testSpacesString(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0"/>
+  <testcase name="testEmptyString on testEmptyString(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0"/>
+  <testcase name="testBracesOrdering on testBracesOrdering(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0.002"/>
+  <testcase name="testDivisionByZero on testDivisionByZero(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0.001"/>
+  <testcase name="testUnaryMultiply on testUnaryMultiply(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0"/>
+  <testcase name="testOver9k on testOver9k(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0"/>
+  <testcase name="testSpaces on testSpaces(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0.002"/>
+  <testcase name="testBadNumber on testBadNumber(ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest)" classname="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest" time="0"/>
+</testsuite>

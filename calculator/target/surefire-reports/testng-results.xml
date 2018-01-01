@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="22" passed="22">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="129" started-at="2017-10-05T20:50:21Z" finished-at="2017-10-05T20:50:21Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="129" started-at="2017-10-05T20:50:21Z" finished-at="2017-10-05T20:50:21Z">
+      <class name="ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest">
+        <test-method status="PASS" signature="testBadString() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testBadString" duration-ms="31" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBadString -->
+        <test-method status="PASS" signature="testPlainOrdering() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testPlainOrdering" duration-ms="32" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlainOrdering -->
+        <test-method status="PASS" signature="testBadSymbolAtStart() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testBadSymbolAtStart" duration-ms="28" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBadSymbolAtStart -->
+        <test-method status="PASS" signature="testNull() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testNull" duration-ms="38" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNull -->
+        <test-method status="PASS" signature="testMinus() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testMinus" duration-ms="35" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMinus -->
+        <test-method status="PASS" signature="testBasicOps() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testBasicOps" duration-ms="40" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBasicOps -->
+        <test-method status="PASS" signature="testPlusPlus() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testPlusPlus" duration-ms="37" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlusPlus -->
+        <test-method status="PASS" signature="testDivisionAssociativity() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testDivisionAssociativity" duration-ms="38" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivisionAssociativity -->
+        <test-method status="PASS" signature="testBadSymbolInDigitEnd() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testBadSymbolInDigitEnd" duration-ms="40" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBadSymbolInDigitEnd -->
+        <test-method status="PASS" signature="testTooFewBraces() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testTooFewBraces" duration-ms="40" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTooFewBraces -->
+        <test-method status="PASS" signature="testTooMuchBraces() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testTooMuchBraces" duration-ms="39" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTooMuchBraces -->
+        <test-method status="PASS" signature="testAdditionalSpaceSymbols() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testAdditionalSpaceSymbols" duration-ms="41" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdditionalSpaceSymbols -->
+        <test-method status="PASS" signature="testBadSymbolInDigitStart() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testBadSymbolInDigitStart" duration-ms="40" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBadSymbolInDigitStart -->
+        <test-method status="PASS" signature="testBracesOrdering() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testBracesOrdering" duration-ms="44" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBracesOrdering -->
+        <test-method status="PASS" signature="testSpacesString() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testSpacesString" duration-ms="41" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSpacesString -->
+        <test-method status="PASS" signature="testEmptyString() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testEmptyString" duration-ms="42" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptyString -->
+        <test-method status="PASS" signature="testEmptyBraces() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testEmptyBraces" duration-ms="40" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptyBraces -->
+        <test-method status="PASS" signature="testSpaces() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testSpaces" duration-ms="46" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSpaces -->
+        <test-method status="PASS" signature="testOver9k() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testOver9k" duration-ms="44" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOver9k -->
+        <test-method status="PASS" signature="testDivisionByZero() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testDivisionByZero" duration-ms="43" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivisionByZero -->
+        <test-method status="PASS" signature="testUnaryMultiply() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testUnaryMultiply" duration-ms="44" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnaryMultiply -->
+        <test-method status="PASS" signature="testBadNumber() throws ru.mipt.java2017.homework.base.task1.ParsingException" name="testBadNumber" duration-ms="45" started-at="2017-10-05T23:50:21Z" finished-at="2017-10-05T23:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBadNumber -->
+      </class> <!-- ru.mipt.java2017.homework.g696.mikhaylov.task1.MyCalculatorTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

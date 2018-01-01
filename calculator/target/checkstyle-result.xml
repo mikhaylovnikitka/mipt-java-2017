@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.1.2">
+<file name="/Users/nikita/Documents/java/homework/mipt-java-2017/homework-g696-mikhaylov/src/main/java/ru/mipt/java2017/homework/g696/mikhaylov/task1/MyCalculatorFunctions.java">
+</file>
+<file name="/Users/nikita/Documents/java/homework/mipt-java-2017/homework-g696-mikhaylov/src/main/java/ru/mipt/java2017/homework/g696/mikhaylov/task1/TrivialChecker.java">
+</file>
+<file name="/Users/nikita/Documents/java/homework/mipt-java-2017/homework-g696-mikhaylov/src/main/java/ru/mipt/java2017/homework/g696/mikhaylov/task1/Lexeme.java">
+</file>
+<file name="/Users/nikita/Documents/java/homework/mipt-java-2017/homework-g696-mikhaylov/src/main/java/ru/mipt/java2017/homework/g696/mikhaylov/task1/LexemeType.java">
+</file>
+<file name="/Users/nikita/Documents/java/homework/mipt-java-2017/homework-g696-mikhaylov/src/main/java/ru/mipt/java2017/homework/g696/mikhaylov/task1/PriorityType.java">
+</file>
+<file name="/Users/nikita/Documents/java/homework/mipt-java-2017/homework-g696-mikhaylov/src/main/java/ru/mipt/java2017/homework/g696/mikhaylov/task1/MyCalculator.java">
+</file>
+<file name="/Users/nikita/Documents/java/homework/mipt-java-2017/homework-g696-mikhaylov/src/main/java/ru/mipt/java2017/homework/g696/mikhaylov/task1/MyParser.java">
+</file>
+</checkstyle>
